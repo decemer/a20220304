@@ -1,5 +1,6 @@
-https://dashboard.heroku.com/new?template=https://github.com/yinmoyu/heroku-v2
+https://dashboard.heroku.com/new?template=https://github.com/decemer/a20220304
 
+https://github.com/decemer/a20220304
 **若需部署  VLESS，请转到 [vless](https://github.com/bclswl0827//tree/vless) 分支。**
 
 ## 概述
